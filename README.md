@@ -1,0 +1,1 @@
+The project aims to build an enhanced real time chatting application, using a modular development approach. It leverages technologies such as Reactjs, Javascript, Express, Socket.io, Chakra UI and Vite.
