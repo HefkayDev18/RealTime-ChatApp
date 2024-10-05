@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Box, Input, Button, HStack, VStack, Text, Avatar, Heading, Flex } from "@chakra-ui/react";
 import { io } from "socket.io-client";
-import FormatTime from "../functions/formatTime";
+import FormatTime from "../functions/FormatTime";
 
 const socket = io("http://localhost:4000");
 
