@@ -1,5 +1,5 @@
 import { ChakraProvider, Box} from "@chakra-ui/react";
-import Chatbox from "./components/Chatbox";
+import Chatbox from "./components/Chatbox.jsx";
 
 function App() {
   return (
