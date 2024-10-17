@@ -1,3 +1,5 @@
 chatapp-backend/node_modules/
 chatapp-frontend/node_modules/
 chatapp-frontend/.gitignore
+chatapp-frontend/.github
+chatapp-backend/.gitignore
